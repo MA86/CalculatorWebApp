@@ -8,4 +8,4 @@ CSS (Animate, Bootstrap), JavaScript (React, JSX).
 
 ## Demonstration
 
-To see this application in action, click on this [link](link here).
+To see this application in action, click on this [link](https://ma86.github.io/CalculatorWebApp/).
